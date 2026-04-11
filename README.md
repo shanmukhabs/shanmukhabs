@@ -93,10 +93,7 @@
 <p align="center">💻 Keep Learning | 🚀 Keep Building</p>
 
 ---
-
----
-
-<h3 align="center">✨ Thanks for Visiting ✨</h3>
+<h3 align="center">✨ Thanks for Watching ✨</h3>
 
 <p align="center">
   ⭐️ From <a href="https://github.com/shanmukhabs">shanmukhabs</a>
