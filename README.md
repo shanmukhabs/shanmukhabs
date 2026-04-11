@@ -72,3 +72,7 @@
 ---
 
 ⭐️ From [shanmukhabs](https://github.com/shanmukhabs)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shanmukhabs&theme=radical" />
+</p>
