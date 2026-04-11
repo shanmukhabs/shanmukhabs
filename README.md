@@ -35,6 +35,7 @@
 
 ## 🛠️ Tech Stack
 
+
 ### 💻 Programming
 <p>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
@@ -60,11 +61,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?shanmukhabs=shanmukhabs&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shanmukhabs&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?shanmukhabs=shanmukhabs&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukhabs&layout=compact&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shanmukhabs&theme=radical" />
 </p>
 ---
 
