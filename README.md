@@ -30,16 +30,14 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
-<h3>💻 Tech Stack</h3>
-
 <p>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  !<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  !<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java" />
+  !<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
+  !<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
+  !<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
 </p>
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
 
 
 ### 🌐 Web Development
