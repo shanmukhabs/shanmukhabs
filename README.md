@@ -86,6 +86,21 @@
 
 ⭐️ From [shanmukhabs](https://github.com/shanmukhabs)
 
+---
+
+<h3 align="center">🙏 Thanks for Visiting!</h3>
+<p align="center">⭐️ Thanks for watching my GitHub profile</p>
+<p align="center">💻 Keep Learning | 🚀 Keep Building</p>
+
+---
+
+---
+
+<h3 align="center">✨ Thanks for Visiting ✨</h3>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shanmukhabs&theme=radical" />
+  ⭐️ From <a href="https://github.com/shanmukhabs">shanmukhabs</a>
 </p>
+
+---
+
