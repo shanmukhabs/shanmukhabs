@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
-![html&css](https://medium.com/@fruthie_codes/youre-the-css-to-my-html-d9ef5e15595)
+![html](<img src="https://shields.io" alt="HTML5 Badge">)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
