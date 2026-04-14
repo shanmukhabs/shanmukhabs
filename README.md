@@ -79,7 +79,7 @@
 ---
 
 ## 📂 Projects
-- 🔗 [Project 1](https://shanmukhabs.github.io/my---profile/)
+- 🔗 [My first Project profile](https://shanmukhabs.github.io/my---profile/)
 - 🔗 [Project 2](https://github.com/yourusername/project2)
 
 ---
