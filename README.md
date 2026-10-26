@@ -79,8 +79,8 @@
 ---
 
 ## 📂 Projects
-- 🔗 [My first Project profile](https://shanmukhabs.github.io/my---profile/)
-- 🔗 [Project 2](https://github.com/yourusername/project2)
+- 🔗 [My portfolio ](  --  )
+
 
 ---
 
