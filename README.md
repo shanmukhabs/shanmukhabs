@@ -79,7 +79,7 @@
 ---
 
 ## 📂 Projects
-- 🔗 [My portfolio ](  --  )
+- 🔗 [My portfolio ](  https://shanmukhabs.github.io/my-portfolio/  )
 
 
 ---
